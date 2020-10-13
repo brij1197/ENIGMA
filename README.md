@@ -14,4 +14,4 @@ Steckerbrett: To change the output path of one or more letters, you can swap the
 The 3 positional rotors Alpha, Beta and Gamma can rotate 26 times.
 
 # Credits
-Guides from Medium and Youtube.
+Medium article by Vasile Păpăluță.
