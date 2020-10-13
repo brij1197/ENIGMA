@@ -12,3 +12,6 @@ Change the settings of the cipher in the json script.
 
 Steckerbrett: To change the output path of one or more letters, you can swap the characters using the steckerbrett.
 The 3 positional rotors Alpha, Beta and Gamma can rotate 26 times.
+
+# Credits
+Guides from Medium and Youtube.
